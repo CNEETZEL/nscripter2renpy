@@ -1,6 +1,7 @@
 import os, sys
 
-import Image
+#import Image
+from PIL import Image
 
 from lexer import Lexer, Token
 
